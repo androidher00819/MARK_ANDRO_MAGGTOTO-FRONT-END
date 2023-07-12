@@ -101,7 +101,7 @@ section {
   display: flex;
   justify-content: flex-start;
   flex-direction: column;
-  background-image: url(/img/hero/hero-desktop.jpg);
+  background-image: URL(./img/hero/hero-desktop.jpg);
   background-size: cover;
 }
 /* overlay */
